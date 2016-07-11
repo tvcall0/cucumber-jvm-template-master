@@ -1,4 +1,5 @@
 cucumber-jvm-template
 =====================
+Please note the primary feature file is named featuredemo.feature. 
 
-This is a template project that you can use to start with cucumber-jvm and selenium java tests. Read about it on [seleniumframework.com] (http://www.seleniumframework.com/cucumber-jvm-2/what-is-cucumber-jvm/)
+Project specifications have been provided by Sprout Social, Inc. Project implementation has been provided by Thomas Callahan III. Project skeleton framework upon which implementation was built was provided by the following online resource: http://www.seleniumframework.com/cucumber-jvm-first-project/
