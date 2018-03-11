@@ -2,7 +2,7 @@
 #Instruction set for framework implementation here:
 #1. http://www.seleniumframework.com/cucumber-jvm-first-project/
 #Factors considered when designing this test approach are as follows:
-#1. Code reusability.
+#1. Code re-usability.
 #2. An additional layer of abstraction to achieve self-documenting code
 #3. Ease of use for the manual tester.
 #Test data was supplied freely online via the following sources:
