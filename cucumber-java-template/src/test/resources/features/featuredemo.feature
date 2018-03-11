@@ -1,4 +1,6 @@
 #Languages and frameworks involved are Java and Selenium Webdriver within Cucumber Framework
+#Instruction set for framework implementation here:
+#1. http://www.seleniumframework.com/cucumber-jvm-first-project/
 #Factors considered when designing this test approach are as follows:
 #1. Code reusability.
 #2. An additional layer of abstraction to achieve self-documenting code
